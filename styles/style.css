@@ -106,6 +106,7 @@ body {
 .imagem {
     width: 50%;
     border-radius: 16px;
+    object-fit: cover;
 }
 
 .rodape {
